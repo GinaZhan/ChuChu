@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:layout_gravity="center_vertical"
+    tools:context=".MainActivity" >
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hello World!"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/result_text"
+        android:textSize="34sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/roll_label"
+        android:layout_gravity="center_horizontal"
+        android:textColor="#0B0A0A"
+        android:textSize="34sp"
+        android:id="@+id/roll_button"
+        app:backgroundTint="#FDB74F" />
+
+    <Button
+        android:id="@+id/count_up"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/count_up"
+        android:textColor="#0B0A0A"
+        android:textSize="34sp"
+        app:backgroundTint="#53D9EA" />
+
+    <Button
+        android:id="@+id/reset"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="@string/reset"
+        android:textColor="#0B0A0A"
+        android:textSize="34sp"
+        app:backgroundTint="#8BC34A" />
+
+
+</LinearLayout>
