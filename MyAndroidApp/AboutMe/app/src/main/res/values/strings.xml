@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Gina Zhang</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hi, my name is Gina.
+    \n\nI come from China.
+    \n\nI am <b>19</b> years old.
+    \n\nI miss my grandparents, but I don\'t know when I can see them.
+    \n\nHope they are happy and healthy!
+    \n\nI will start my coop next year. Hope I can find a coop.
+    \n\nI want to earn a lot to buy an apartment in Hamilton, a car, a
+        cat. I hope I can find a great boyfriend, but I am not in hurry,
+        even if I can\'t find one, it\'s totally fine.\n\n\n\n\n\n\n\n\n\n
+    \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGoodbye!</string>
+    <string name="check">cheked</string>
+    <string name="what_is_your_nickname">What is your Nickname?</string>
+    <string name="done">Done</string>
+</resources>
