@@ -1,9 +1,11 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.1.13)  16 APR 2021 04:41
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2021.1.13)  10 SEP 2021 12:27
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **spec.tex
-(/home/bodhi/Repos/zhanj265/A4/Design_Specification/spec.tex
+
+(/home/bodhi/Repos/ChuChu/PersonalProject/Game2048/Design_Specification/spec.te
+x
 LaTeX2e <2017-04-15>
 Babel <3.18> and hyphenation patterns for 3 language(s) loaded.
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -214,7 +216,8 @@ File: color.cfg 2016/01/02 v1.6 sample color configuration
 )
 Package color Info: Driver file: pdftex.def on input line 147.
 )
-(/home/bodhi/Repos/zhanj265/A4/Design_Specification/spec.aux)
+(/home/bodhi/Repos/ChuChu/PersonalProject/Game2048/Design_Specification/spec.au
+x)
 \openout1 = `spec.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 43.
@@ -229,8 +232,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 43.
 LaTeX Font Info:    ... okay on input line 43.
-
-(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count114
 \scratchdimen=\dimen137
@@ -316,22 +318,24 @@ Package pdftex.def Info: Game_begin.png  used on input line 51.
 (pdftex.def)             Requested size: 273.14922pt x 239.54181pt.
  [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/bodhi/Repos/zhanj265
-/A4/Design_Specification/Game_begin.png>] [2]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map} </home/bodhi/Repos/ChuChu/P
+ersonalProject/Game2048/Design_Specification/Game_begin.png>] [2]
 <A4_UML.png, id=16, 589.60275pt x 443.256pt>
 File: A4_UML.png Graphic file (type png)
 <use A4_UML.png>
 Package pdftex.def Info: A4_UML.png  used on input line 66.
 (pdftex.def)             Requested size: 409.71689pt x 308.01807pt.
- [3 </home/bodhi/Repos/zhanj265/A4/Design_Specification/A4_UML.png>]
+ [3 </home/bodhi/Repos/ChuChu/PersonalProject/Game2048/Design_Specification/A4_
+UML.png>]
 LaTeX Font Info:    Try loading font information for OMS+cmr on input line 80.
- (/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/omscmr.fd
 File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 80.
-
-[4] [5] [6] [7] [8] [9] [10] [11] [12] [13]
+ [4] [5] [6] [7]
+[8] [9] [10] [11] [12] [13]
 Overfull \hbox (28.48904pt too wide) in paragraph at lines 498--527
 [] 
  []
@@ -358,46 +362,29 @@ r/m/n/12 ]\OML/cmm/m/it/12 :getValue\OT1/cmr/m/n/12 () =
  []
 
 [15] [16] [17] [18]
-<A3_UML.png, id=72, 536.60475pt x 477.58424pt>
-File: A3_UML.png Graphic file (type png)
-<use A3_UML.png>
-Package pdftex.def Info: A3_UML.png  used on input line 652.
-(pdftex.def)             Requested size: 546.2915pt x 486.24042pt.
-
-Overfull \hbox (91.04742pt too wide) in paragraph at lines 652--654
- [] 
- []
-
-[19 </home/bodhi/Repos/zhanj265/A4/Design_Specification/A3_UML.png>]
-<control_flow2.png, id=78, 532.389pt x 449.2785pt>
-File: control_flow2.png Graphic file (type png)
-<use control_flow2.png>
-Package pdftex.def Info: control_flow2.png  used on input line 658.
-(pdftex.def)             Requested size: 455.24408pt x 384.18509pt.
- [20 </home/bodhi/Repos/zhanj265/A4/Design_Specification/control_flow2.png>]
-(/home/bodhi/Repos/zhanj265/A4/Design_Specification/spec.aux) ) 
+(/home/bodhi/Repos/ChuChu/PersonalProject/Game2048/Design_Specification/spec.au
+x) ) 
 Here is how much of TeX's memory you used:
- 2676 strings out of 494923
- 36880 string characters out of 6180742
+ 2666 strings out of 494923
+ 36887 string characters out of 6180742
  97059 words of memory out of 5000000
- 5930 multiletter control sequences out of 15000+600000
+ 5922 multiletter control sequences out of 15000+600000
  13620 words of font info for 52 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  41i,8n,25p,967b,192s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texl
-ive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/te
-xmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
-c/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/s
-ymbols/msbm10.pfb>
-Output written on /home/bodhi/Repos/zhanj265/A4/Design_Specification/spec.pdf (
-20 pages, 324592 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></
+usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/sh
+are/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/tex
+live/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texlive/texmf-dist/fonts/typ
+e1/public/amsfonts/symbols/msbm10.pfb>
+Output written on /home/bodhi/Repos/ChuChu/PersonalProject/Game2048/Design_Spec
+ification/spec.pdf (18 pages, 199199 bytes).
 PDF statistics:
- 110 PDF objects out of 1000 (max. 8388607)
- 71 compressed objects within 1 object stream
+ 99 PDF objects out of 1000 (max. 8388607)
+ 66 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 21 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
